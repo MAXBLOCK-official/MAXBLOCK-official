@@ -6,7 +6,7 @@
 ---
 <div align="center" style=background-color:#ECEBEC;>
 
-![header](https://capsule-render.vercel.app/api?&type=slice&reversal=false&color=ECEBEC&height=200&text=MAXBLOCK&animation=twinkling&fontSize=90&fontAlign=38&fontAlignY=86&rotate=0&stroke=000000&strokeWidth=5&section=footer)
+![header](https://capsule-render.vercel.app/api?&type=slice&reversal=false&color=ECEBEC&height=200&text=MAXBLOCK&animation=twinkling&fontSize=90&fontAlign=35&fontAlignY=86&rotate=0&stroke=000000&strokeWidth=5&section=footer)
 ![sub_1](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=%20%20%20%20NO.1%20CRYPTO%20MARKETING%20%20%20%20&fontColor=FCD535&fontAlign=30&fontAlignY=50&fontSize=23&textBg=true&height=100)
 ![sub_2](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=돈%20욕심%20부리다%20보면&fontAlign=41&fontAlignY=55&height=100)
 ![sub_3](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=만나게되는%20마케팅%20회사&fontAlign=47.5&fontAlignY=55&height=100)
