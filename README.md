@@ -30,7 +30,11 @@
 
 <!-- 메인 비즈니스 -->
 ---
+<div align = "center">
+  
 # MAIN BUISNESS
+</div>
+
 ## 1. 운영지원
     100% 거래소 상장만을 위한
     작업을 진행합니다.
@@ -62,7 +66,12 @@
 
 <!-- 베이프 -->
 ---
+
+<div align = "center">
+  
 # **베이프가 맥스블록을 선택한 이유**
+</div>
+
     가장 중요하게 생각하는 비즈니스는
     투명과 정직입니다. "고맙습니다" 소중한
     한마디를 듣기위해 달리고 또 달립니다.
@@ -73,8 +82,25 @@
 
 <!-- 파트너쉽 -->
 ---
+
+<div align = "center">
+  
 # OUR PARTNERS
-## EXCHANGE
+
+|**EXCHANGE**||**PARTNERSHIP**|
+|:---|---|:---|
+|Bithumb||CAKE LAB|
+|Coinone||JOBPOST|
+|LBank||A BATHING APE|
+|DigiFinex||LIVE PARTNERS|
+|Gate.io||TERRA BLOCK|
+|Huobi||MEFLEX|
+|MEXC Global||SAI|
+|||FUNDSTOA|
+
+</div>
+
+<!-- ## EXCHANGE
     Bithumb
     Coinone
     LBank
@@ -91,7 +117,7 @@
     FACTOON
     MEFLEX
     SAI
-    FUNDSTOA
+    FUNDSTOA -->
 ---
 <br>
 <div align="center">
