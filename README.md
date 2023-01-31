@@ -8,7 +8,7 @@
 ![header](https://capsule-render.vercel.app/api?&type=slice&reversal=false&color=ECEBEC&height=200&text=MAXBLOCK&animation=twinkling&fontSize=90&fontAlign=38&fontAlignY=86&rotate=0&stroke=000000&strokeWidth=5&section=footer)
 ![sub_1](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=%20%20%20%20NO.1%20CRYPTO%20MARKETING%20%20%20%20&fontColor=FCD535&fontAlign=30&fontAlignY=50&fontSize=23&textBg=true&height=100)
 ![sub_2](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=돈%20욕심%20부리다%20보면&fontAlign=41&fontAlignY=55&height=100)
-![sub_3](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=만나게되는%20마케팅%20회사&fontAlign=47.2&fontAlignY=55&height=100)
+![sub_3](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=만나게되는%20마케팅%20회사&fontAlign=47.5&fontAlignY=55&height=100)
 ![sub_3](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=맥스블록!&fontAlign=22&fontAlignY=55&height=100)
 ![sub_4](https://capsule-render.vercel.app/api?type=rect&color=ECEBEC&text=코인판에서%2010번%20뒤통수%20맞고%20만든%20가이드라인&fontSize=30&fontAlign=41&fontAlignY=33&desc=이것만%20있으면%20최소%20뒤통수%20맞지%20않습니다.&descSize=28.5&descAlign=36&descAlignY=73&height=100)
 
