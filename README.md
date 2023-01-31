@@ -2,6 +2,7 @@
 <!-- 큰배경 -->
 <!-- <div align="left" style=background-color:#ffffff;> -->
 <!-- 상단배경 -->
+
 ---
 <div align="center" style=background-color:#ECEBEC;>
 
@@ -15,13 +16,13 @@
 <!-- MEDIA 바로가기 -->
   <p align="center">
     <a href="https://t.me/+9HKXsotylDg1MzE1">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" style="padding: 0px 10px 0px 0px;width:90px;height:90px;"/>
-    </a>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" style="padding: 0px 0px 0px 0px;width:90px;height:90px;"/>
+    </a>　
     <a href="http://maxblock.co.kr/">
       <img src="https://dl.dropboxusercontent.com/s/040v659bub7ww8e/logo.png" style="padding: 0px 0px 0px 0px;width:90px;height:90px;"/>
-    </a>
+    </a>　
     <a href="https://pf.kakao.com/_VlUBxj">
-      <img src="https://cdn.icon-icons.com/icons2/2972/PNG/512/kakaotalk_logo_icon_186878.png" style="padding: 0px 0px 0px 10px;width:90px;height:90px;"/>
+      <img src="https://cdn.icon-icons.com/icons2/2972/PNG/512/kakaotalk_logo_icon_186878.png" style="padding: 0px 0px 0px 0px;width:90px;height:90px;"/>
     </a>
   </p>
   <br>
